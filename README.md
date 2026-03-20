@@ -170,11 +170,6 @@ trtexec --onnx=yolov8n.onnx --saveEngine=yolov8n.engine --fp16
 - FP16 precision is recommended for a balance between speed and accuracy.
 - For edge deployment (e.g., NVIDIA Jetson), ensure TensorRT is installed via JetPack SDK.
 
----
-
-## 📄 License
-
-This project is open source. See [LICENSE](LICENSE) for details.
 
 ---
 
