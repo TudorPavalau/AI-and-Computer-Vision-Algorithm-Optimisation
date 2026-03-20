@@ -178,6 +178,8 @@ This project is open source. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 👤 Author
+## 👥 Authors
 
 **Tudor Pavalau** — [GitHub Profile](https://github.com/TudorPavalau)
+
+**Georgi Emanuel** — [GitHub Profile](https://github.com/GeorgiEmanuel)
